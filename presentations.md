@@ -11,6 +11,7 @@
 # マネジメント・組織開発
 
 - [認知負荷で考えるフロントエンドの組織体制 - Speaker Deck](https://speakerdeck.com/shibe23/ren-zhi-fu-he-dekao-eruhurontoendonozu-zhi-ti-zhi)
+	- - [認知負荷で考えるフロントエンドの組織体制 - Findy Engineer Lab - ファインディエンジニアラボ](https://findy-code.io/engineer-lab/frontendcon_4)
 
 - [Four Keysと開発生産性について取り組んできたこと - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/four_keys_and_dev_productivity)
 
