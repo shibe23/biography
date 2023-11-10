@@ -1,6 +1,6 @@
-登壇・インタビュー記事など
+# 登壇・インタビュー記事など
 
-# フロントエンド
+## フロントエンド
 
 - [巨大なSPAの技術的負債と向き合い続けるテクニック - Speaker Deck](https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku)
 
@@ -10,7 +10,7 @@
 
 - [Datadog RUMを使ってクライアントからの過剰リクエストを監視する - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/how-to-use-datadog-rum)
 
-# マネジメント・組織開発
+## マネジメント・組織開発
 
 - [認知負荷で考えるフロントエンドの組織体制 - Speaker Deck](https://speakerdeck.com/shibe23/ren-zhi-fu-he-dekao-eruhurontoendonozu-zhi-ti-zhi)
 	- - [認知負荷で考えるフロントエンドの組織体制 - Findy Engineer Lab - ファインディエンジニアラボ](https://findy-code.io/engineer-lab/frontendcon_4)
@@ -25,17 +25,17 @@
 
 - [フロントエンド開発部のミッションステートメントを作りました。 - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/webfrontend-mission-statement)
 
-# 企画した自社イベント
+## 企画した自社イベント
 
 - [ChatworkのEMが歩んできたキャリアとこれからのEM - connpass](https://chatwork.connpass.com/event/282320/)
 	- [【イベントレポート】ChatworkのEMが歩んできたキャリアとこれからのEM｜Chatwork株式会社](https://note.com/chatwork_note/n/n1dfabb3e2c6f)
 - [ChatworkのEMの頭の中 - connpass](https://chatwork.connpass.com/event/296664/)
 
-# 経歴
+## 経歴
 
 - [【Chatwork入社話】 エンジニアリングマネージャー｜Chatwork株式会社](https://note.com/chatwork_note/n/nda09691fad1e)
 - [フロントエンドチームを国内で存在感を示せる組織へ - Cha道](https://chado.chatwork.com/entry/2021/11/02/100000)
 
-# その他紹介記事
+## その他紹介記事
 
 - [フィーチャーチームの導入でDevOpsとオーナーシップの実現に挑戦するChatworkの開発組織 - はてなニュース](https://hatenanews.com/articles/2023/09/26/103000)
