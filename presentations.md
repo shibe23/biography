@@ -2,7 +2,7 @@
 
 ## フロントエンド
 
-- [巨大なSPAの技術的負債と向き合い続けるテクニック - Speaker Deck](https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku)
+- [巨大なSPAの技術的負債と向き合い続けるテクニック(2023年秋) - Speaker Deck](https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku-2023nian-qiu)
 
 - [組織フェーズを見据えたWebフロントエンドのアーキテクチャと変遷 - Speaker Deck](https://speakerdeck.com/shibe23/zu-zhi-huesuwojian-ju-etawebhurontoentofalseakitekutiyatobian-qian)
 
