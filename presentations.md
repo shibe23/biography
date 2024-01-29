@@ -30,6 +30,7 @@
 - [ChatworkのEMが歩んできたキャリアとこれからのEM - connpass](https://chatwork.connpass.com/event/282320/)
 	- [レポート] [【イベントレポート】ChatworkのEMが歩んできたキャリアとこれからのEM｜Chatwork株式会社](https://note.com/chatwork_note/n/n1dfabb3e2c6f)
 - [ChatworkのEMの頭の中 - connpass](https://chatwork.connpass.com/event/296664/)
+  	- [レポート] [EMはマネジメントとどう向き合うべきか？ - ChatworkのEMの頭の中｜Chatwork株式会社](https://note.com/chatwork_note/n/nea6a6455a153)
 
 ## 経歴
 
