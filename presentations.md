@@ -1,4 +1,13 @@
 # 登壇・インタビュー記事
+## Pick Up
+活動内容を知るためにオススメの記事
+
+- [開発組織でピープルマネージャーをやっている - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2022/10/04/110957)
+
+- [Four Keysと開発生産性について取り組んできたこと - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/four_keys_and_dev_productivity)
+
+- [巨大なSPAの技術的負債と向き合い続けるテクニック(2023年秋) - Speaker Deck](https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku-2023nian-qiu)
+---
 
 ## フロントエンド
 
