@@ -32,7 +32,7 @@ Job Descriptionの定義 ~ パイプライン形成 ~ 内定後のアトラク�
 
 新卒採用はインターンシップや入社後の研修にも携わっています。
 
-# SNS
+# SNSなど
 - x: https://x.com/shibe_23
 - Speaker Deck: https://speakerdeck.com/shibe23
 - note: https://note.com/shibe23
