@@ -37,13 +37,13 @@
 ## 企画した自社イベント
 
 - [ChatworkのEMが歩んできたキャリアとこれからのEM - connpass](https://chatwork.connpass.com/event/282320/)
-	- [レポート] [【イベントレポート】ChatworkのEMが歩んできたキャリアとこれからのEM｜Chatwork株式会社](https://note.com/chatwork_note/n/n1dfabb3e2c6f)
+	- [レポート] [【イベントレポート】ChatworkのEMが歩んできたキャリアとこれからのEM｜Chatwork株式会社](https://note.com/kubell_official/n/n1dfabb3e2c6f)
 - [ChatworkのEMの頭の中 - connpass](https://chatwork.connpass.com/event/296664/)
-  	- [レポート] [EMはマネジメントとどう向き合うべきか？ - ChatworkのEMの頭の中｜Chatwork株式会社](https://note.com/chatwork_note/n/nea6a6455a153)
+  	- [レポート] [EMはマネジメントとどう向き合うべきか？ - ChatworkのEMの頭の中｜Chatwork株式会社](https://note.com/kubell_official/n/nea6a6455a153)
 
 ## 経歴
 
-- [【Chatwork入社話】 エンジニアリングマネージャー｜Chatwork株式会社](https://note.com/chatwork_note/n/nda09691fad1e)
+- [【Chatwork入社話】 エンジニアリングマネージャー｜Chatwork株式会社](https://note.com/kubell_official/n/nda09691fad1e)
 - [フロントエンドチームを国内で存在感を示せる組織へ - Cha道](https://chado.chatwork.com/entry/2021/11/02/100000)
 
 ## その他紹介記事
